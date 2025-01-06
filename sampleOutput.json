@@ -1,0 +1,98 @@
+
+{
+    "status": "ok",
+    "totalResults": 8940,
+    "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "Gizmodo.com"
+        },
+        "author": "Isaac Schultz",
+        "title": "A Supercomputer Just Created the Largest Universe Simulation Ever",
+        "description": "The Frontier supercomputer's calculations provide a new foundation for simulating the universe's conventional physics, but also the enigmatic behaviors and properties of dark matter.",
+        "url": "https://gizmodo.com/a-supercomputer-just-created-the-largest-universe-simulation-ever-2000532933",
+        "urlToImage": "https://gizmodo.com/app/uploads/2024/12/universe-simulation-model.jpg",
+        "publishedAt": "2024-12-07T13:00:41Z",
+        "content": "Last month, a team of researchers put the then-fastest supercomputer in the world to work on a rather large quandary: the nature of the universe’s atomic and dark matter.\r\nThe supercomputer is called… [+3945 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Gizmodo.com"
+        },
+        "author": "Germain Lussier",
+        "title": "The Larger Sony Spider-Man Universe May End This Week",
+        "description": "Kraven the Hunter might be the last Spider-Man film without Spider-Man for some time.",
+        "url": "https://gizmodo.com/sony-spiderman-universe-dead-kraven-the-hunter-tom-holland-2000536639",
+        "urlToImage": "https://gizmodo.com/app/uploads/2024/12/spiderman-across-spiderverse-poster.jpg",
+        "publishedAt": "2024-12-10T17:50:13Z",
+        "content": "Morbin’ time may finally be over. No more researching spiders in the Amazon. Venom has been stung. And Kraven is, apparently, no longer what Sony is cravin’. This week marks the release of Kraven the… [+2194 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Gizmodo.com"
+        },
+        "author": "Isaac Schultz",
+        "title": "How 2024 Transformed Our View of the Universe",
+        "description": "From black hole jets to auroras on Mars, this year had plenty of astrophysical wonder.",
+        "url": "https://gizmodo.com/how-2024-transformed-our-view-of-the-universe-2000539154",
+        "urlToImage": "https://gizmodo.com/app/uploads/2024/12/2024-astronomy-year-review1.jpg",
+        "publishedAt": "2024-12-18T12:30:58Z",
+        "content": "There are plenty of awesome objects in the universe, made more marvelous by scientists’ ability to image and understand the laws and processes that make them possible. Each year, researchers make new… [+15338 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Gizmodo.com"
+        },
+        "author": "James Whitbrook and Gordon Jackson",
+        "title": "Updates From the Future of the John Wick Universe, and More",
+        "description": "Plus, James Gunn ponders what role Dave Bautista would play in his DC Universe.",
+        "url": "https://gizmodo.com/john-wick-continental-canceled-ballerina-movie-poster-2000535152",
+        "urlToImage": "https://gizmodo.com/app/uploads/2024/12/MS-1206-John-Wick-Ballerina-Ana-de-Armas.jpg",
+        "publishedAt": "2024-12-06T14:00:13Z",
+        "content": "Scream 7‘s cast just keeps on growing. Thunderbolts is heading back to reshoots. Invincible is ready to start showing a little bit of what’s coming in season 3. Plus, what’s to come on Creature Comma… [+2763 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Gizmodo.com"
+        },
+        "author": "James Whitbrook",
+        "title": "It’s Skeletorbin’ Time: Jared Leto Is the He-Man Movie’s Big Bad",
+        "description": "Leto will cackle maniacally (hopefully) alongside new additions Sam C. Wilson, Hafthor Bjornsson, and Kojo Attah in Masters of the Universe.",
+        "url": "https://gizmodo.com/jared-leto-he-man-movie-skeletor-2000542065",
+        "urlToImage": "https://gizmodo.com/app/uploads/2024/12/jared-leto-morbius-skeletor-he-man.jpg",
+        "publishedAt": "2024-12-20T23:00:58Z",
+        "content": "The Masters of the Universe movie has found someone for Nicholas Galitzine to beat up: the Hollywood Reporter has word that Jared Leto has signed up to play legendary He-Man baddie Skeletor in Travis… [+1304 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "[Removed]"
+        },
+        "author": null,
+        "title": "[Removed]",
+        "description": "[Removed]",
+        "url": "https://removed.com",
+        "urlToImage": null,
+        "publishedAt": "2024-12-12T14:00:54Z",
+        "content": "[Removed]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Gizmodo.com"
+        },
+        "author": "Sabina Graves",
+        "title": "James Gunn Wants His DC Universe to Go All Over the Place Tonally",
+        "description": "Gunn wrote and produced adult animated series Creature Commandos, which arrives December 5 on Max.",
+        "url": "https://gizmodo.com/james-gunn-wants-his-dc-universe-to-go-all-over-the-place-tonally-2000534514",
+        "urlToImage": "https://gizmodo.com/app/uploads/2024/12/DC-Studios-Creature-Commandos.jpg",
+        "publishedAt": "2024-12-05T00:30:18Z",
+        "content": "With the release of Creature Commandos this week, DC Studios wants audiences to know every project will be unique to its heroes and villains. With the slate of titles that are going to make up the ne… [+1883 chars]"
+      }
+    ]
+}
